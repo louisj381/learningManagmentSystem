@@ -26,8 +26,8 @@ public class CourseManager extends Manager
 	}
 	/**
 	 * add the below parameters to the table and generate an id
-	 * @param course
-	 * @param title
+	 * @param prof
+	 * @param name
 	 * @param active
 	 */
 	public void addItem (int prof, String name, boolean active)
